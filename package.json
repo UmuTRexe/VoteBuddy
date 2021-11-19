@@ -1,0 +1,61 @@
+{
+  "//1": "VoteBuddy by UmuTRexe",
+  "//2": "VoteBuddy v0.0.1",
+  "//3": "This project is made by UmuTRexe",
+  "name": "VodeBuddy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "canvas": "^2.8.0",
+    "fs": "^0.0.2",
+    "ms": "^2.1.3",
+    "moment": "^2.29.1",
+    "chalk": "^4.1.0",
+    "quick.db": "^7.1.2",
+    "jimp": "^0.16.1",
+    "os": "^0.1.1",
+    "moment-duration-format": "^2.3.2",
+    "simple-youtube-api": "^5.2.1",
+    "discord-bots-api": "^0.0.2",
+    "instagram-user": "^2.0.1",
+    "passport": "^0.4.1",
+    "ytdl-core": "^4.4.5",
+    "weather-js": "^2.0.0",
+    "google": "^2.1.0",
+    "passport-oauth2": "^1.5.0",
+    "level-session-store": "^2.2.0",
+    "db": "^3.3.1",
+    "can": "^6.6.0",
+    "bad-words": "^3.0.3",
+    "async": "^3.2.0",
+    "discord.emoji-backup": "^1.0.2",
+    "discord-backup": "^2.4.1",
+    "axios": "^0.21.2",
+    "snekfetch": "^4.0.4",
+    "hastebin-gen": "^2.0.5",
+    "parse-ms": "^2.1.0",
+    "dateformat": "^4.5.1",
+    "speedtest-net": "^2.2.0",
+    "bfd-simpleapi": "^3.0.1",
+    "user-instagram": "^2.1.9",
+    "discord-buttons": "^4.0.0",
+    "wio.db": "^4.0.21"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
